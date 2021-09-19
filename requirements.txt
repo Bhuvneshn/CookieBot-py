@@ -1,0 +1,5 @@
+discord
+spotipy
+youtube_dl
+asyncio
+PyNaCl
