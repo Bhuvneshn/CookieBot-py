@@ -1,1 +1,1 @@
-worker: python3 worker.py
+worker: python3 cookiebot.py
